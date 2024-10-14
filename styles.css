@@ -43,7 +43,7 @@
 }
 
 #banner-image {
-    background-image: url(https://github.com/ArnoldMajor/profile-card-component-main/blob/main/images/bg-pattern-card.svg);
+    background-image: url(https://github.com/ArnoldMajor/profile-card-component-main/blob/main/images/bg-pattern-card.svg?raw=true);
     background-size: cover;
     width: inherit;
     border-top-left-radius: inherit;
