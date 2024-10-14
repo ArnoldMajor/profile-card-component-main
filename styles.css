@@ -21,7 +21,7 @@
     max-width: 100vw;
     min-height: 100vh;
     background-color: var(--clr-dark-cyan);
-    background-image: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg);
+    background-image: url(https://github.com/ArnoldMajor/profile-card-component-main/blob/main/images/bg-pattern-top.svg?raw=true), url(https://github.com/ArnoldMajor/profile-card-component-main/blob/main/images/bg-pattern-bottom.svg?raw=true);
     background-size: 80%, 60%;
     /* background-position-x: -25%, 115%;
     background-position-y: 300%, -300%; */
@@ -43,7 +43,7 @@
 }
 
 #banner-image {
-    background-image: url(/images/bg-pattern-card.svg);
+    background-image: url(https://github.com/ArnoldMajor/profile-card-component-main/blob/main/images/bg-pattern-card.svg);
     background-size: cover;
     width: inherit;
     border-top-left-radius: inherit;
