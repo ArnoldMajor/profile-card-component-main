@@ -135,7 +135,11 @@ hr.solid {
     }
 
     .card-body {
-        height: 475px;
-        width: 400px;
+        height: 400px;
+        width: 350px;
+    }
+
+    #user-info {
+        padding: 0px 100px;
     }
 }
